@@ -1,0 +1,10 @@
+body
+{
+	background: #ce4a4a;
+}
+
+#player1 , #player2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
